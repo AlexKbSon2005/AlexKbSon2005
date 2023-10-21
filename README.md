@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding/gaming
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on real time projects
-- 📫 How to reach me @hanangakidaiki@gmail.com or instagram : alexlbson
+- 📫 How to reach me @hanangakidaiki@gmail.com or instagram : alexkbson
 
 <!---
 AlexKbSon2005/AlexKbSon2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
