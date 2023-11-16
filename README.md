@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexKbSon2005
+- 👋 Hi, I’m @laxman Acharya
 - 👀 I’m interested in coding/gaming
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on real time projects
