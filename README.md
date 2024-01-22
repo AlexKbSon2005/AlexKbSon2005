@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laxman Acharya</h1>
 <h3 align="center">Data Science | Machine learning | Analytics | AI</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexKbSon2005&label=Profile%20views&color=0e75b6&style=flat" alt="AlexKbSon2005" /> </p>
-
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=A+Passionate+Data+Scientist+%3A)" />
+  </h3>
 - 🌱 I’m currently learning **NLP | ML**
 - 💬 Ask me about **ML | Data Acience | Ai**
 - 📫 How to reach me **laxmanacharya344@gmail.com**
