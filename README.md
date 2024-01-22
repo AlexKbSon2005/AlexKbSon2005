@@ -2,8 +2,6 @@
 <h3 align="center">Data Science | Machine learning | Analytics | AI</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexKbSon2005&label=Profile%20views&color=0e75b6&style=flat" alt="AlexKbSon2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexKbSon2005&theme=" alt="AlexKbSon2005" /></a> </p>
-
 - 🌱 I’m currently learning **NLP | ML**
 - 💬 Ask me about **ML | Data Acience | Ai**
 - 📫 How to reach me **laxmanacharya344@gmail.com**
